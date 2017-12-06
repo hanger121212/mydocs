@@ -1,3 +1,9 @@
+---
+title: nodejs安装
+date: 2017-12-05 17:25:26
+tags: [nodejs,安装]
+---
+
 ## 下载并解压
 
 > wget https://nodejs.org/dist/v8.9.1/node-v8.9.1-linux-x64.tar.gz

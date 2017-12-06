@@ -1,3 +1,9 @@
+---
+title: git安装
+date: 2017-12-01 17:20:20
+tags: [安装,git]
+---
+
 ## 安装(阿里云)
 > yum install git
 
