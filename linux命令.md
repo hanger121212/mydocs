@@ -7,7 +7,7 @@ tags: [命令,linux]
 ## 定时执行脚本
 
 ```
-vim etc/crontab
+crontab -e
 */1 * * * *  sh XXX.sh
 ```
 
