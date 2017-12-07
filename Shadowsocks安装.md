@@ -4,11 +4,11 @@ date: 2017-11-07 17:25:20
 tags: [shadowsocks,安装]
 ---
 
-##安装shadowsocks(阿里云)
+## 安装shadowsocks(阿里云)
 > yum install python-setuptools && easy_install pip
 > pip install shadowsocks
 
-##配置文件
+## 配置文件
 > vim /etc/shadowsocks.json
 > {
 >   "server":"your_server_ip",
