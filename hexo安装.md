@@ -18,3 +18,7 @@ tags: [安装,hexo]
 
 ## 安装主题
 > git clone https://github.com/iissnan/hexo-theme-next themes/next
+
+## 后台启动
+> nginx //启动nginx
+> nohup hexo server & //nohup启动 logout
